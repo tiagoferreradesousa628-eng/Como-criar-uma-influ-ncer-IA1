@@ -1,0 +1,124 @@
+<!doctype html>
+
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Como Criar uma Influencer IA — A Nova Onda</title>
+  <meta name="description" content="Aprenda passo a passo como criar uma Influencer IA e aproveitar a nova tendência digital." />
+  <style>
+    :root{--accent:#ff3d6b;--bg:#0f1724;--card:#0b1220;--muted:#98a0b3}
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background:linear-gradient(180deg,#071026 0%, #07192a 100%);color:#e6eef8;line-height:1.6}
+    .container{max-width:960px;margin:36px auto;padding:0 20px}
+    header{text-align:center;margin-bottom:40px}
+    header h1{font-size:36px;margin-bottom:12px;color:#fff}
+    header p{color:var(--muted);font-size:18px}
+    .hero{background:linear-gradient(135deg,#ff3d6b,#ff9f6b);padding:40px 20px;border-radius:16px;text-align:center;color:#071022}
+    .hero h2{font-size:28px;margin-bottom:16px}
+    .hero p{font-size:18px;margin-bottom:22px}
+    .btn{padding:14px 22px;border-radius:12px;font-weight:700;border:none;cursor:pointer;font-size:16px}
+    .btn-primary{background:#071022;color:#fff}
+    .btn-primary:hover{opacity:0.9}
+    section{margin-top:50px}
+    .card{background:linear-gradient(180deg,rgba(255,255,255,0.02),rgba(255,255,255,0.01));padding:24px;border-radius:14px;border:1px solid rgba(255,255,255,0.05);margin-bottom:20px}
+    h2{margin-bottom:16px;font-size:24px}
+    footer{margin-top:48px;padding:30px 0;border-top:1px solid rgba(255,255,255,0.1);color:var(--muted);text-align:center}
+    .testimonials{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+    .testimonial{font-size:15px;color:var(--muted)}
+    .testimonial strong{display:block;margin-bottom:6px;color:#fff}
+    .countdown{text-align:center;margin:30px 0;font-size:20px;font-weight:700;color:#ff9f6b}
+    @media (max-width:600px){
+      header h1{font-size:28px}
+      .hero h2{font-size:22px}
+      .hero p{font-size:16px}
+      .testimonials{grid-template-columns:1fr}
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Como Criar uma Influencer IA</h1>
+      <p>A nova onda do marketing digital e criação de conteúdo.</p>
+    </header><div class="hero">
+  <h2>Transforme sua ideia em uma Influencer Virtual de Sucesso</h2>
+  <p>Você já percebeu que as inteligências artificiais estão dominando tudo? Agora chegou a vez das <strong>Influencers IA</strong>, um mercado novo e promissor que pode gerar renda e autoridade online.</p>
+  <a href="https://pay.kirvano.com/d1b73aa0-e385-464d-818e-4ab2b1252103?aff=9ed44328-ee3e-48e0-98d0-06a0fc15b378" target="_blank">
+    <button class="btn btn-primary">Quero aprender agora</button>
+  </a>
+</div>
+
+<section>
+  <h2>O que você vai aprender?</h2>
+  <div class="card">✔️ Como criar uma persona digital única com IA</div>
+  <div class="card">✔️ Técnicas para gerar conteúdo automaticamente</div>
+  <div class="card">✔️ Como engajar seguidores reais usando uma Influencer IA</div>
+  <div class="card">✔️ Estratégias para monetizar sua influenciadora virtual</div>
+</section>
+
+<section>
+  <h2>Por que investir agora?</h2>
+  <div class="card">
+    <p>Estamos vivendo o início da revolução das <strong>Influencers de Inteligência Artificial</strong>. Quem entrar agora estará na frente, aproveitando uma tendência mundial antes da maioria. É uma oportunidade real de criar um ativo digital que trabalha para você 24h por dia.</p>
+  </div>
+</section>
+
+<section>
+  <h2>Depoimentos</h2>
+  <div class="testimonials">
+    <div class="card testimonial">
+      <strong>Maria S.</strong>
+      "Eu nunca imaginei que conseguiria criar uma Influencer digital. O curso me mostrou passo a passo e já comecei a ganhar seguidores. Incrível!"
+    </div>
+    <div class="card testimonial">
+      <strong>João P.</strong>
+      "O conteúdo é direto ao ponto. Já estou monetizando minha influenciadora IA e vendo retorno real. Super recomendo."
+    </div>
+    <div class="card testimonial">
+      <strong>Ana Clara</strong>
+      "A ideia parecia futurista demais, mas funciona! Estou na frente do mercado e recebendo propostas de parcerias."
+    </div>
+    <div class="card testimonial">
+      <strong>Lucas M.</strong>
+      "Vale cada centavo. Já recuperei meu investimento em menos de 2 semanas."
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Oferta por tempo limitado</h2>
+  <div class="countdown" id="countdown"></div>
+  <p style="text-align:center;color:var(--muted)">Garanta seu acesso antes que a promoção acabe!</p>
+</section>
+
+<section style="text-align:center;margin-top:40px">
+  <a href="https://pay.kirvano.com/d1b73aa0-e385-464d-818e-4ab2b1252103?aff=9ed44328-ee3e-48e0-98d0-06a0fc15b378" target="_blank">
+    <button class="btn btn-primary" style="font-size:18px;padding:16px 28px">Comprar agora</button>
+  </a>
+</section>
+
+<footer>
+  © 2025 Como Criar uma Influencer IA — Todos os direitos reservados
+</footer>
+
+  </div>  <script>
+    // Contagem regressiva de 48 horas
+    function startCountdown(hours){
+      const end = new Date().getTime() + hours*60*60*1000;
+      const el = document.getElementById('countdown');
+      function update(){
+        const now = new Date().getTime();
+        const diff = end - now;
+        if(diff <= 0){el.textContent = 'Oferta encerrada';return;}
+        const h = Math.floor(diff/(1000*60*60));
+        const m = Math.floor((diff%(1000*60*60))/(1000*60));
+        const s = Math.floor((diff%(1000*60))/1000);
+        el.textContent = `${h}h ${m}m ${s}s restantes`;
+      }
+      update();
+      setInterval(update,1000);
+    }
+    startCountdown(48);
+  </script></body>
+</html>
